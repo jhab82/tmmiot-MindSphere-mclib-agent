@@ -1,0 +1,18 @@
+{
+  "name": "agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@mindconnect/mindconnect-nodejs": "file:../mindconnect-nodejs-master/mindconnect-mindconnect-nodejs-3.0.0-beta-8.tgz",
+    "rpi-dht-sensor": "^0.1.1",
+    "sds011-client": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

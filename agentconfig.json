@@ -1,0 +1,13 @@
+ {
+  "content": {
+    "baseUrl": "https://southgate.eu1.mindsphere.io",
+    "iat": "eyJraWQiOiJrZXktaWQtMSIsInR5cCI6IkpXVCIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJTQ0kiLCJzdWIiOiJkZDM3MWI2NjlhODk0Mjc1ODcxNTZhNzc2YTc2ZTQxOCIsImF1ZCI6IkFJQU0iLCJpYXQiOjE1NDU2MDAwNTQsIm5iZiI6MTU0NTYwMDA1NCwiZXhwIjoxNTQ2MjA0ODU0LCJqdGkiOiI4ODYzYjlkMC1jNGQ2LTQ1YjItOTgwYS05OTY5N2IwNzViOTAiLCJzY29wZSI6IklBVCIsInRlbiI6InNpZWh1bmdhIiwidGVuX2N0eCI6Im1haW4tdGVuYW50IiwiY2xpZW50X2NyZWRlbnRpYWxzX3Byb2ZpbGUiOlsiU0hBUkVEX1NFQ1JFVCJdLCJzY2hlbWFzIjpbInVybjpzaWVtZW5zOm1pbmRzcGhlcmU6djEiXX0.RmEYBmWl6WmrQXqrm1xcUZ5bsJuMuoyG3bTn9tU6zDNzyljao-5fTkCZWm4iD_d0d__uPLCiQzCL2YQs9vhPNWnz2pubizS-v8niXwnNFKLJS7qOzV0MR1rf0GAwzQ3h_8TYUg-8ZxCNtfCImobdK3iylRWBHVVyde0c_8zCkhB-uuvYjKlLHLdHpAZPanpi6Y6BBG45p1Ex3CS-ZJZHfqWHeHdCEvSjORnLQbCzheqddKHCyTomsRgzkB2vHtXbVW0vkdFK5k3wMiePMOwcJB0Eh3BlVZXYELZEJbECL8VaR3iEag1AFv7Me3-H_Q3UF5aLVTCItd_EDO9NxcHmZQ",
+    "clientCredentialProfile": [
+      "SHARED_SECRET"
+    ],
+    "clientId": "dd371b669a89427587156a776a76e418",
+    "tenant": "siehunga"
+  },
+  "expiration": "2018-12-30T21:20:54.000Z"
+}
+                    
