@@ -6,7 +6,7 @@
       "SHARED_SECRET"
     ],
     "clientId": "dd371b669a89427587156a776a76e418",
-    "tenant": "siehunga"
+    "tenant": "yourTenantName"
   },
   "expiration": "2018-12-30T21:20:54.000Z"
 }
