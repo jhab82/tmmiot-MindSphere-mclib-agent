@@ -112,7 +112,7 @@ int main(int argc, char *argv[])
        // configuration->proxy_type = MCL_PROXY_HTTP;
         configuration->user_agent = "custom agent v1.0";
         configuration->initial_access_token = initial_access_token;
-        configuration->tenant = "siehunga";
+        configuration->tenant = "yourTenantName";
         configuration->load_function.shared_secret = (mcl_load_shared_secret_callback_t) custom_load_function;
         configuration->save_function.shared_secret = (mcl_save_shared_secret_callback_t) custom_save_function;
 
